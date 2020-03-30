@@ -9,8 +9,8 @@
                     [0, 1, 2, 3, 4, 5]
                 ],
                 "properties": {
-                    "id": "Mah / Goa",
-                    "NAME_1": "MHGOA"
+                    "id": "MAH/GOA",
+                    "NAME_1": "Mah / Goa"
                 }
             }, {
                 "type": "Polygon",
@@ -27,7 +27,7 @@
                     [7, 8]
                 ],
                 "properties": {
-                    "id": "Delhi", 
+                    "id": "DEL",
                     "NAME_1": "Delhi"
                 }
             }, {
@@ -54,8 +54,8 @@
                     [19, 20, 21, 22, 23]
                 ],
                 "properties": {
-                    "id": "Odisha",
-                    "NAME_1": "Odisha"
+                    "id": "ODI",
+                    "NAME_1": "Orissa"
                 }
             }, {
                 "type": "Polygon",
@@ -63,7 +63,7 @@
                     [24, -6, 25, 26, 27]
                 ],
                 "properties": {
-                    "id": "Karnataka",
+                    "id": "KAR",
                     "NAME_1": "Karnataka"
                 }
             }, {
@@ -72,8 +72,8 @@
                     [28, 29, 30, 31, 32, 33, 34, 35, 36, 37]
                 ],
                 "properties": {
-                    "id": "Assam / North East / Sikkim",
-                    "NAME_1": "Assam"
+                    "id": "ASSAM",
+                    "NAME_1": "Assam / North East / Sikkim"
                 }
             }, {
                 "type": "Polygon",
@@ -108,8 +108,8 @@
                     [44, 45, -13, -17, -7, -16, 46]
                 ],
                 "properties": {
-                    "id": "Pun/Cha",
-                    "NAME_1": "Punjab"
+                    "id": "PUN",
+                    "NAME_1": "Pun/Cha"
                 }
             }, {
                 "type": "Polygon",
@@ -117,7 +117,7 @@
                     [47, -47, -15, 48, 49, 50]
                 ],
                 "properties": {
-                    "id": "Rajasthan",
+                    "id": "RAJ",
                     "NAME_1": "Rajasthan"
                 }
             }, {
@@ -126,8 +126,8 @@
                     [51, 52, 53, 54, 55, -49, -19, -8, -18, 56]
                 ],
                 "properties": {
-                    "id": "UP/Uttarakhand",
-                    "NAME_1": "Uttar Pradesh"
+                    "id": "UP",
+                    "NAME_1": "UP/Uttarakhand"
                 }
             }, {
                 "type": "Polygon",
@@ -153,8 +153,8 @@
                     [61, 62, -61, -53]
                 ],
                 "properties": {
-                    "id": "Bihar/Jharkhand",
-                    "NAME_1": "Bihar"
+                    "id": "BIH",
+                    "NAME_1": "Bihar/Jharkhand"
                 }
             }, {
                 "type": "Polygon",
@@ -180,8 +180,8 @@
                     [-3, 67, -50, -56, -67]
                 ],
                 "properties": {
-                    "id": "MP/Chhattisgarh",
-                    "NAME_1": "Madhya Pradesh"
+                    "id": "MP",
+                    "NAME_1": "MP/Chhattisgarh"
                 }
             }, {
                 "type": "MultiPolygon",
@@ -204,7 +204,7 @@
                 ],
                 "properties": {
                     "id": "TN",
-                    "NAME_1": "Tamil Nadu"
+                    "NAME_1": "TN/Pondicherry"
                 }
             }, {
                 "type": "Polygon",
@@ -244,7 +244,7 @@
                     ]
                 ],
                 "properties": {
-                    "id": "West Bengal",
+                    "id": "WB",
                     "NAME_1": "West Bengal"
                 }
             }, {
@@ -253,7 +253,7 @@
                     [85, -28, -76]
                 ],
                 "properties": {
-                    "id": "Kerala",
+                    "id": "KER",
                     "NAME_1": "Kerala"
                 }
             }, {
@@ -262,8 +262,8 @@
                     [86, -51, -68, -2]
                 ],
                 "properties": {
-                    "id": "Guj / D&D / DNH",
-                    "NAME_1": "Gujarat"
+                    "id": "GUJ",
+                    "NAME_1": "Guj / D&D / DNH"
                 }
             }, {
                 "type": "Polygon",
@@ -271,8 +271,8 @@
                     [-77, -26, -5, -66, -21, 87]
                 ],
                 "properties": {
-                    "id": "AP / Telangana",
-                    "NAME_1": "Andhra Pradesh"
+                    "id": "AP/TEL",
+                    "NAME_1": "AP / Telangana"
                 }
             }, {
                 "type": "Polygon",
@@ -289,8 +289,8 @@
                     [89]
                 ],
                 "properties": {
-                    "id": "Mumbai",
-                    "NAME_1": "Maharashtra"
+                    "id": "MUM",
+                    "NAME_1": "Mumbai"
                 }
             }, {
                 "type": "Polygon",
@@ -298,8 +298,8 @@
                     [90]
                 ],
                 "properties": {
-                    "id": "Kolkata",
-                    "NAME_1": "West Bengal"
+                    "id": "KOL",
+                    "NAME_1": "Kolkata"
                 }
             }, {
                 "type": "Polygon",
@@ -307,7 +307,7 @@
                     [91]
                 ],
                 "properties": {
-                    "id": "Bangalore",
+                    "id": "BGL",
                     "NAME_1": "Bangalore"
                 }
             }, {
@@ -334,8 +334,8 @@
                     [94]
                 ],
                 "properties": {
-                    "id": "TN/Pondicherry",
-                    "NAME_1": "Tamil Nadu"
+                    "id": "CHN",
+                    "NAME_1": "Chennai"
                 }
             }],
             "bbox": [68.15515738328011, 8.07303051968119, 97.329697024696, 37.02909798282374]
