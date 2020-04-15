@@ -24,15 +24,6 @@
             }, {
                 "type": "Polygon",
                 "arcs": [
-                    [7, 8]
-                ],
-                "properties": {
-                    "id": "DEL",
-                    "NAME_1": "Delhi"
-                }
-            }, {
-                "type": "Polygon",
-                "arcs": [
                     [9, 10, 11, 12, 13]
                 ],
                 "properties": {
@@ -336,6 +327,15 @@
                 "properties": {
                     "id": "CHN",
                     "NAME_1": "Chennai"
+                }
+            }, {
+                "type": "Polygon",
+                "arcs": [
+                    [7, 8]
+                ],
+                "properties": {
+                    "id": "DEL",
+                    "NAME_1": "Delhi"
                 }
             }],
             "bbox": [68.15515738328011, 8.07303051968119, 97.329697024696, 37.02909798282374]
